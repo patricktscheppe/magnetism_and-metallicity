@@ -1,1 +1,1 @@
-Raw Green function data is contained in ../S_13
+Raw Green function data is included in ../S_13
